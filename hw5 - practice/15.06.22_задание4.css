@@ -1,0 +1,36 @@
+#div1 {
+ width: 200px; height: 200px;
+ display: inline-block;
+ margin-left: 25px;
+ margin-right: 25px;
+ margin-top: 25px;
+ margin-bottom: 70px;
+}
+
+#div1:hover {
+  background: #ff9f19;
+            }
+.b {
+  background: black;
+   }
+.m {
+  background: mediumturquoise;
+   }
+
+
+#div2 {
+ width: 200px; height: 200px;
+ display: inline-block;
+ margin-left: 25px;
+ margin-right: 25px;
+      }
+
+#div2:hover {
+  background: #ff9f19;
+            }
+.b {
+  background: black;
+   }
+.s {
+  background: steelblue;
+   }

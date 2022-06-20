@@ -1,0 +1,27 @@
+#div1 {
+    margin: 10px;
+    width: 420px;  height: 30px;
+    background: linear-gradient(#f3e5fc, #d4b0f4, #53356e);
+      }
+
+#div1,a {
+    border-radius: 0 15px 15px 0;
+        }
+
+  a {
+    font-family: Times;
+    padding: 5px 15px;
+    color: black;
+    display: inline-block;
+    text-decoration: none;
+    border-right: 2px solid white;
+    box-shadow: 4px 0 2px -2px black;
+    }
+
+#div1:hover {
+    box-shadow: 0 0 3px 1px white;
+             }
+
+  a:hover {
+    background: #b099c1;
+            }
